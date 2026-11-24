@@ -23,4 +23,14 @@ Educational institutions and academic leadership require data-driven visibility 
 3. **Executive Communication:** Formatted clear visual indicator cards and matrix views to support **Communication** with academic advisors and institution leaders
 
 ---
+
+## Download the Original Power BI Project
+
+Access the original two-page Power BI dashboard (.pbix) directly from this GitHub repository. Open the downloaded file using Microsoft Power BI Desktop.
+
+---
+
+[Download Power BI Project](https://github.com/Emmyottoh/Student-Academic-Performance-PowerBI/raw/refs/heads/main/Student_Academic_Performance_Dashboard.pbix)
+
+---
 *Developed by Emmanuel Ottoh | Data Analyst & BI Developer*
